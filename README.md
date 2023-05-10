@@ -31,3 +31,8 @@ according to climbing up and climbing down (for signal length =4096, embedded
 delay = 1, and embedded dimension = 3, 4, 5, 6, all three accelerometer
 directions)
 <img width="661" alt="Screen Shot 2023-05-10 at 12 18 03 PM" src="https://github.com/niral-desai/TimeSeries-HumanActivity-Monitoring/assets/46837140/e1815b81-968e-46e1-92fa-0c78722be49e">
+
+
+Disclaimer: I've used only the head and chest dataset for all the activites but you can use others as well I've uploaded the dataset and adding the link as well if anyone need it.
+https://www.uni-mannheim.de/dws/research/projects/activity-recognition/#dataset_realworld
+Here is the link for the dataset. Ive used  "Dataset-Real World(HAR)2016" for all the 15 subjects.
